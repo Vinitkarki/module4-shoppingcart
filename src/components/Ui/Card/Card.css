@@ -1,0 +1,27 @@
+.card-box{
+    margin: 30px;
+    position: grid;
+    width: 240px;
+    border: 1px solid black;
+}
+
+.product-img{
+    width: max-content;
+}
+img{
+    width: 240px;
+    height:280px;
+}
+
+p{
+    margin-left: 15px;
+}
+
+.btn{
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    color: white;
+    margin: 1rem;
+}
+
+.navbar{
+    margin-top: 0;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-weight: 500;
+}
+.left{
+    float: left;
+}
+
+.right{
+    display: flex;
+    float: right;
+}
